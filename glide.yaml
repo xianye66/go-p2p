@@ -3,8 +3,9 @@ import:
 - package: github.com/tendermint/go-common
 - package: github.com/tendermint/go-config
 - package: github.com/tendermint/go-crypto
+  version: develop
 - package: github.com/tendermint/go-data
-  version: c955b191240568440ea902e14dad2ce19727543a
+  version: develop
 - package: github.com/tendermint/go-flowrate
   subpackages:
   - flowrate
